@@ -1,2 +1,3 @@
-# max-infeld-bio
-Public biography of Max Infeld: artist, designer, and blockchain pioneer focused on socially distributed art and community design.
+# Max Infeld
+
+Max Infeld is an artist, designer, and engineer of socially distributed work. He holds a BFA in Printmaking and Social Practice from California State University, Chico, and has published 1,376 original typefaces under Xerographer Fonts with over 100 million downloads. In 2007 he created Viral Monetary Units, an experimental currency tracked on a public ledger, and in 2017 contributed cards 27–29 to Curio Cards—the first art NFTs on Ethereum—under the name Marisol Vengas. From 2021 to 2024 he worked as Product Manager and Strategist at Dacoco on Alien Worlds, and he continues to build software and protocols for communities, including McClaw.io.
